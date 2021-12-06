@@ -1,0 +1,20 @@
+.container-del{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color:rgb(63, 90, 60);
+    margin:20px;
+}
+p{
+    margin: 20px;
+}
+
+@media (max-width:450px){
+    h1{
+        font-size:7vw;
+    }
+    p{
+        font-size:4vw;
+        }
+}
